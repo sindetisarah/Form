@@ -12,6 +12,7 @@ legend{
 }
 fieldset{
     width: 200px;
+    background-color: gray;
    
 }
 form{
@@ -23,4 +24,8 @@ form{
     width:600px;
     padding-left: 20%;
     border-radius: 25%;
+}
+button{
+    color:white;
+    background-color:chocolate;
 }
