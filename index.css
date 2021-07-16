@@ -1,0 +1,26 @@
+input{
+    margin:5px;
+
+}
+
+legend{
+    background-color: chocolate;
+    padding:5px 10px;
+ 
+
+    color:white
+}
+fieldset{
+    width: 200px;
+   
+}
+form{
+    padding-left: 600px;
+    
+}
+#launch{
+    height: 600px;
+    width:600px;
+    padding-left: 20%;
+    border-radius: 25%;
+}
