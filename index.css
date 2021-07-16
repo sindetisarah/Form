@@ -1,5 +1,6 @@
 input{
     margin:5px;
+    
 
 }
 
@@ -12,7 +13,7 @@ legend{
 }
 fieldset{
     width: 200px;
-    background-color: gray;
+    background-color:gainsboro;
    
 }
 form{
